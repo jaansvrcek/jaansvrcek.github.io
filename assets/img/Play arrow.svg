@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Play arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ExConf2017-test" transform="translate(-768.000000, -611.000000)" fill="#9EA9BE">
+            <path d="M779.275743,612.44246 L783.920196,628.442458 L783.920196,628.442458 C784.228118,629.50324 783.617805,630.612793 782.557023,630.920715 C782.155753,631.037195 781.728079,631.025074 781.33405,630.886054 L766.335114,625.594183 L766.335114,625.594183 C765.293475,625.226676 764.746983,624.084337 765.114491,623.042698 C765.21011,622.771681 765.363014,622.524455 765.562789,622.317856 L775.917272,611.609729 L775.917272,611.609729 C776.685098,610.815678 777.95125,610.79442 778.7453,611.562246 C778.995765,611.804439 779.178616,612.107861 779.275743,612.44246 Z" id="Play-arrow" transform="translate(774.500000, 621.000000) rotate(-45.000000) translate(-774.500000, -621.000000) "></path>
+        </g>
+    </g>
+</svg>
