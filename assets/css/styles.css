@@ -1,0 +1,120 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #5B6476;
+	background-image: url("../img/Circle img.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top;
+    background-size: 55vw;
+}
+
+.page-content {
+	padding-top: 40px;
+}
+
+.invitation {
+	padding-top: 100px;
+	/* center */
+}
+
+.invitation--headline {
+	font-size: 60px;
+	font-weight: 800;
+	background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	/* remove width */
+	width: 368px;
+	line-height: 1.2em;
+}
+
+
+.invitation__take-action {
+	margin-top: 40px;
+}
+
+.nav__link {
+	letter-spacing: 1px;
+	font-weight: 600;
+	color: #5B6476;
+	font-size:  12px;
+	text-decoration: none;
+	padding: 10px 10px;
+}
+
+.nav__link:hover {
+	color: #000;
+	border-bottom: 1px solid #000;
+}
+
+.nav__list {
+	display:  inline-block;
+}
+
+.invitation__text-subtitle {
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+.invitation__text-date {
+	margin-top: 40px;
+	font-size: 1.8em;
+	font-weight: 600;
+	line-height: 2em;
+}
+
+.invitation__text-place {
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+.button {
+	cursor: pointer;
+	margin: 7px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+    white-space: nowrap;
+}
+
+.button--primary {
+	padding: 25px 44px;
+	font-size: 0.75em;
+	font-weight: 600;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	border-radius: 100px;
+	color: #FFFFFF;
+	background-color: #5B6476;
+}
+
+.button--primary:hover {
+	background-color: #5B6476ee;
+}
+
+.video-component {
+}
+
+.button--circle {
+	height: 60px;
+	width: 60px;
+	border-radius: 100%;
+	background-color: #FFFFFF;
+	box-shadow: 0 2px 20px 0 rgba(55,59,68,0.23);
+	border:  none;
+}
+
+.button--circle:hover {
+	box-shadow: 0 2px 40px 0 rgba(55,59,68,0.23);
+}
+
+.button__icon {
+	padding: 3px 0px 0px 4px;
+}
+
+
+.mapping-block {
+	position: relative;
+	/* top: 40%; */
+	left: 40%;
+}
