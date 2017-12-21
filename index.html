@@ -2,6 +2,7 @@
 <html lang="sk">
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<title>Experience Conference</title>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,800&amp;subset=latin-ext" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/reset.css">
@@ -11,10 +12,10 @@
 <body>
 	<div class="grid grid--container page-content">
 		<div class="row">
-			<div class="col col--lg-1">
+			<div class="col col--md-2 col--lg-1">
 				<a href="./index.html"> <img src="assets/img/Logo.svg" alt="Logo of ExConf"></a>
 			</div>
-			<div class="col col--lg-11 col--sm-align-bottom">
+			<div class="col col--lg-11 col--md-10 col--sm-align-bottom">
 				<nav class="nav">
 					<ul>
 						<li class="nav__list"><a class="nav__link" href="#"> O KONFERENCII </a></li>
@@ -28,7 +29,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col col--md-4 col--md-offset-1 invitation">
+			<div class="col col--lg-offset-1 col--lg-5 col--sm-12 invitation">
 				<h1 class="invitation--headline">
 					Experience Conference
 				</h1>
@@ -41,15 +42,19 @@
 				<div class="invitation__text-place">
 					Rafinery Gallery Bratislava
 				</div>
-				<div class="invitation__take-action">
-					<a href="" class="button button--primary">Objednať lístok</a>
-				</div>
+
 			</div>
-			<div class="col col--md-7 col--sm-align-bottom video-component">
+		</div>
+		<div class="row row--sm-reverse">
+			<div class="col  col--lg-6 col--sm-6 col--sm-align-bottom video-component">
 				<div class="mapping-block">
 					<button type="button" value="Play" class="button button--circle"><img class="button__icon" src="./assets/img/Play arrow.svg" alt="Play icon"></button>
-					UX Conference 2018
+					<span class="mapping-block__text--white">UX Conference 2017</span>
+					<!-- <span class="mapping-block__text--grad">UX Conference 2017</span> -->
 				</div>
+			</div>
+			<div class="col col--lg-offset-1 col--lg-5 col--xs-12 col--sm-6 invitation__take-action text--xs-center text--sm-left">
+				<a href="" class="button button--primary">Objednať lístok</a>
 			</div>
 		</div>
 	</div>

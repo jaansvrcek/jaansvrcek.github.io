@@ -1,9 +1,10 @@
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', 'Helvetica', sans-serif;
 	color: #5B6476;
 	background-image: url("../img/Circle img.png");
 	background-repeat: no-repeat;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
+    background-position: right top;
     background-position: right top;
     background-size: 55vw;
 }
@@ -14,30 +15,47 @@ body {
 
 .invitation {
 	padding-top: 100px;
-	/* center */
+	padding-left: 1rem;
+	padding-right: 1rem;
 }
 
+/* todo: remove - just for debugging */
+/* .col
+{
+	border: 1px solid #777;
+} */
+
 .invitation--headline {
-	font-size: 60px;
+	font-size: 3.75rem;
 	font-weight: 800;
 	background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	/* remove width */
-	width: 368px;
-	line-height: 1.2em;
+	line-height: 1.2;
+	margin-bottom: 0.8rem;
 }
 
+@media (max-width: 544px) {
+	.invitation--headline {
+		font-size: 3rem;
+	}
+}
 
-.invitation__take-action {
-	margin-top: 40px;
+@media (min-width: 544px) {
+	.invitation__take-action {
+		margin-top: 2.5rem;
+	}
+}
+
+.nav {
+	white-space: nowrap;
 }
 
 .nav__link {
 	letter-spacing: 1px;
 	font-weight: 600;
 	color: #5B6476;
-	font-size:  12px;
+	font-size:  0.75rem;
 	text-decoration: none;
 	padding: 10px 10px;
 }
@@ -52,20 +70,20 @@ body {
 }
 
 .invitation__text-subtitle {
-	font-size: 1.2em;
-	line-height: 1.5em;
+	font-size: 1.2rem;
+	line-height: 1.5;
 }
 
 .invitation__text-date {
-	margin-top: 40px;
-	font-size: 1.8em;
+	margin-top: 2.5rem;
+	font-size: 1.8rem;
 	font-weight: 600;
-	line-height: 2em;
+	line-height: 2;
 }
 
 .invitation__text-place {
-	font-size: 1.2em;
-	line-height: 1.5em;
+	font-size: 1.2rem;
+	line-height: 1.5;
 }
 
 .button {
@@ -79,7 +97,7 @@ body {
 
 .button--primary {
 	padding: 25px 44px;
-	font-size: 0.75em;
+	font-size: 0.75rem;
 	font-weight: 600;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -112,9 +130,19 @@ body {
 	padding: 3px 0px 0px 4px;
 }
 
-
 .mapping-block {
-	position: relative;
-	/* top: 40%; */
-	left: 40%;
+	margin-left: 10%;
+	text-align: center;
+}
+
+.mapping-block__text--white {
+	color: #fff;
+	mix-blend-mode: difference;
+}
+
+.mapping-block__text--grad {
+	background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	mix-blend-mode: difference;
 }

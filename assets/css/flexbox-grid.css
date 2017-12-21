@@ -11,11 +11,12 @@
 }
 .grid {
   box-sizing: border-box;
-  padding: 0 0.5rem;
+  padding: 0 1.0rem;
 }
 .grid--container {
   margin: 0 auto;
-  max-width: 1200px;
+  /* todo */
+  /* max-width: 1200px;  */
   width: 100%;
 }
 .grid--no-gutters {
