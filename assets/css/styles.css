@@ -9,12 +9,14 @@ body {
     background-size: 55vw;
 }
 
-.page-content {
-	padding-top: 40px;
-}
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
 
 .invitation {
-	padding-top: 100px;
+	padding-top: 6.25rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
 }
@@ -23,16 +25,17 @@ body {
 /* .col
 {
 	border: 1px solid #777;
-} */
-
+}
+ */
 .invitation--headline {
-	font-size: 3.75rem;
+	font-size: 3.55rem;
 	font-weight: 800;
 	background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	line-height: 1.2;
 	margin-bottom: 0.8rem;
+	z-index: 12;
 }
 
 @media (max-width: 544px) {
@@ -69,14 +72,46 @@ body {
 	display:  inline-block;
 }
 
+@media (max-width: 768px) {
+	.nav {
+		white-space: normal;
+		/* background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%); */
+		background: #5B6476;
+		min-width: 340px;
+		overflow: hidden;
+		padding: 1.2rem 1rem;
+		padding-top: 1.5rem;
+		border-radius: 3px;
+		/* display: none; */
+	}
+
+	.nav__link {
+		color: #ffffff;
+		font-size: 1.5rem;
+		line-height: 1.6;
+		width: 95%;
+		display: inline-block;
+		padding-left: 1rem;
+	}
+
+	.nav__list {
+		display: block;
+		width: 100%;
+	}
+	.nav__link:hover {
+		color: #76FFA9;
+		border-bottom: 1px solid #76FFA9;
+	}
+}
+
 .invitation__text-subtitle {
-	font-size: 1.2rem;
+	font-size: 1.25rem;
 	line-height: 1.5;
 }
 
 .invitation__text-date {
 	margin-top: 2.5rem;
-	font-size: 1.8rem;
+	font-size: 1.75rem;
 	font-weight: 600;
 	line-height: 2;
 }
@@ -110,8 +145,8 @@ body {
 	background-color: #5B6476ee;
 }
 
-.video-component {
-}
+/* .video-component { */
+/* } */
 
 .button--circle {
 	height: 60px;
@@ -131,13 +166,25 @@ body {
 }
 
 .mapping-block {
-	margin-left: 10%;
+	margin-left: 14%;
 	text-align: center;
+}
+
+@media (max-width: 768px) {
+	.mapping-block {
+		margin-left: 0;
+	}
 }
 
 .mapping-block__text--white {
 	color: #fff;
-	mix-blend-mode: difference;
+	/* mix-blend-mode: difference; */
+}
+
+@media (max-width: 768px) {
+	.mapping-block__text--white {
+		color: #5B6476ee;
+	}
 }
 
 .mapping-block__text--grad {
@@ -145,4 +192,22 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 	mix-blend-mode: difference;
+}
+
+.padded-top {
+	padding-top: 2.5rem;
+}
+
+.padded-bottom {
+	padding-bottom: 2.5rem;
+}
+
+.padding-reset {
+	padding: 0;
+}
+
+@media (max-width: 768px) {
+	.padding-reset--sm {
+		padding: 0;
+	}
 }
