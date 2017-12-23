@@ -8,14 +8,14 @@
 	<link rel="stylesheet" href="assets/css/reset.css">
 	<link rel="stylesheet" href="assets/css/flexbox-grid.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">
+	  rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
 	<div class="grid grid--container">
 		<div class="row row--xs-reverse padded-top padding-reset--sm">
-			<div class="col col--lg-11 col--md-10 col--sm-align-bottom padding-reset--sm">
-				<nav class="nav">
+			<div class="col col--lg-11 col--md-10 col--sm-align-bottom">
+				<nav class="nav nav--collapsed">
 					<ul>
 						<li class="nav__list"><a class="nav__link" href="#"> O KONFERENCII </a></li>
 						<li class="nav__list"><a class="nav__link" href="#"> SPÍKRI        </a></li>
@@ -29,7 +29,9 @@
 			<div class="col col--md-2 col--lg-1 col--sm-12">
 				<div class="row row--xs-reverse">
 					<div class="col col--xs-6 text--xs-right">
-						<button class="nav-toggle" style="display:none;"><i class="material-icons md-48 ">menu</i></button>
+						<button class="nav-toggle button" >
+							<i class="material-icons md-36 ">menu</i>
+						</button>
 					</div>
 					<div class="col col--xs-6  col--md-12">
 						<a href="./index.html"> <img src="assets/img/Logo.svg" alt="Logo of ExConf"></a>
@@ -59,7 +61,6 @@
 				<div class="mapping-block">
 					<button type="button" value="Play" class="button button--circle"><img class="button__icon" src="./assets/img/Play arrow.svg" alt="Play icon"></button>
 					<span class="mapping-block__text--white">UX Conference 2017</span>
-					<!-- <span class="mapping-block__text--grad">UX Conference 2017</span> -->
 				</div>
 			</div>
 			<div class="col col--lg-offset-1 col--lg-5 col--xs-12 col--sm-6 text--xs-center text--sm-left invitation__take-action">

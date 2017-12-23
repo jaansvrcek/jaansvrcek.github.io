@@ -3,10 +3,10 @@ body {
 	color: #5B6476;
 	background-image: url("../img/Circle img.png");
 	background-repeat: no-repeat;
-    /* background-attachment: fixed; */
-    background-position: right top;
-    background-position: right top;
-    background-size: 55vw;
+	/* background-attachment: fixed; */
+	background-position: right top;
+	background-position: right top;
+	background-size: 55vw;
 }
 
 /* Rules for sizing the icon. */
@@ -31,6 +31,8 @@ body {
 	font-size: 3.55rem;
 	font-weight: 800;
 	background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
+	background-clip: text;
+	fill-color: transparent;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	line-height: 1.2;
@@ -72,17 +74,30 @@ body {
 	display:  inline-block;
 }
 
+.nav-toggle {
+	color: #5B6476;
+	display: none !important;
+	background: transparent;
+	border: none;
+}
+
 @media (max-width: 768px) {
 	.nav {
 		white-space: normal;
-		/* background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%); */
 		background: #5B6476;
 		min-width: 340px;
 		overflow: hidden;
 		padding: 1.2rem 1rem;
 		padding-top: 1.5rem;
-		border-radius: 3px;
-		/* display: none; */
+		border-radius: 0 0 2rem 2rem;
+		display: block;
+		box-sizing: border-box;
+
+		/* menu collapse / uncollapse animation */
+		-moz-transition: all 0.25s;
+		-webkit-transition: all 0.25s;
+		transition: all 0.25s;
+		max-height: 1000%;
 	}
 
 	.nav__link {
@@ -101,6 +116,16 @@ body {
 	.nav__link:hover {
 		color: #76FFA9;
 		border-bottom: 1px solid #76FFA9;
+	}
+
+	.nav-toggle {
+		display: inline-block !important;
+	}
+
+	.nav--collapsed {
+		max-height: 0;
+		overflow: hidden;
+		padding: 0;
 	}
 }
 
@@ -127,7 +152,7 @@ body {
 	display: inline-block;
 	text-decoration: none;
 	text-align: center;
-    white-space: nowrap;
+	white-space: nowrap;
 }
 
 .button--primary {
@@ -144,9 +169,6 @@ body {
 .button--primary:hover {
 	background-color: #5B6476ee;
 }
-
-/* .video-component { */
-/* } */
 
 .button--circle {
 	height: 60px;
@@ -178,20 +200,12 @@ body {
 
 .mapping-block__text--white {
 	color: #fff;
-	/* mix-blend-mode: difference; */
 }
 
 @media (max-width: 768px) {
 	.mapping-block__text--white {
 		color: #5B6476ee;
 	}
-}
-
-.mapping-block__text--grad {
-	background: linear-gradient(231.41deg, #75E9FF 0%, #76FFA9 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-	mix-blend-mode: difference;
 }
 
 .padded-top {
