@@ -28,7 +28,7 @@ body {
 	z-index: 12;
 }
 
-@media (max-width: 544px) {
+@media (max-width: 543px) {
 	.invitation--headline {
 		font-size: 3rem;
 	}
@@ -48,7 +48,7 @@ body {
 	letter-spacing: 1px;
 	font-weight: 600;
 	color: #5B6476;
-	font-size:  0.75rem;
+	font-size: 0.75rem;
 	text-decoration: none;
 	padding: 10px 10px;
 }
@@ -59,7 +59,7 @@ body {
 }
 
 .nav__list {
-	display:  inline-block;
+	display: inline-block;
 }
 
 .nav-toggle {
@@ -69,7 +69,7 @@ body {
 	border: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	.nav {
 		white-space: normal;
 		background: #5B6476;
@@ -164,7 +164,7 @@ body {
 	border-radius: 100%;
 	background-color: #FFFFFF;
 	box-shadow: 0 2px 20px 0 rgba(55,59,68,0.23);
-	border:  none;
+	border: none;
 }
 
 .button--circle:hover {
@@ -179,7 +179,7 @@ body {
 	margin-left: 16%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	.video-play {
 		text-align: center;
 		margin-left: 0;
@@ -208,7 +208,7 @@ body {
 	padding: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	.padding-reset--sm {
 		padding: 0;
 	}
