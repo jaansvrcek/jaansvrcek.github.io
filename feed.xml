@@ -3,12 +3,74 @@
     <title>básnenie</title>
     <link href="https://jaansvrcek.github.io/feed.xml" rel="self" />
     <link href="https://jaansvrcek.github.io" />
-    <updated>2019-06-21T19:48:11+02:00</updated>
+    <updated>2022-06-23T20:03:55+02:00</updated>
     <author>
         <name>ben</name>
     </author>
     <id>https://jaansvrcek.github.io</id>
 
+    <entry>
+        <title>nepokoj</title>
+        <author>
+            <name>ben</name>
+        </author>
+        <link href="https://jaansvrcek.github.io/nepokoj.html"/>
+        <id>https://jaansvrcek.github.io/nepokoj.html</id>
+
+        <updated>2022-06-23T20:03:55+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jaansvrcek.github.io/media/posts/6/IMG_2718-copy.jpg" alt="" />
+                <p>Nepokoj visí na stene</p>
+<p> </p>
+<p>Žulové mračná<br>tlačia krídla ku zemi<br>                   ako je mi?</p>
+<p> </p>
+<p>Vietor kvíli<br>V pustom poli<br>Stojí strom sám prikrčený<br>Čaká čo nastane<br><br>Záblesk svetla<br>Ženie tiene<br>Rozbehnuté<br>Po krajine</p>
+<p>Dusné ticho<br>Vzduch sa chveje</p>
+<p><br>Ako je mi?<br>Ako?<br>Už dvadsať rokov<br>Zavčas rána<br>Tuším búrku</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>na chvíľu</title>
+        <author>
+            <name>ben</name>
+        </author>
+        <link href="https://jaansvrcek.github.io/na-chvilu.html"/>
+        <id>https://jaansvrcek.github.io/na-chvilu.html</id>
+
+        <updated>2022-06-23T20:03:19+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Na chvíľu<br>iba na okamih<br>podržať pohľad v plameňoch<br>a počúvať praskanie</p>
+<p> </p>
+<p>niečo na tom je - <br>pozerať do ohňa<br>a počítať vlny v oceáne<br><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">- čo pohládza dušu</span></p>
+<p> </p>
+<p>mať to s kým zdieľať<br>to nemé precitnutie<br>a na moment zabudnúť <br>o trápeniach<br>čo kúšu</p>
+<p><br>ale už musím ísť<br>zas obliecť si očakávania<br>a zabudnúť <br>kým chcel som byť<br>a kým, na chvíľu, boli sme</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>asi</title>
+        <author>
+            <name>ben</name>
+        </author>
+        <link href="https://jaansvrcek.github.io/asi.html"/>
+        <id>https://jaansvrcek.github.io/asi.html</id>
+
+        <updated>2022-06-23T20:03:36+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>jedná z tých temných nocí<br>kedy kvári ma zlý pocit<br>na tvári mám výraz zúfania<br>duša zavýja ako do tmy vlci<br><br>iba štyri steny a ja<br>kde niet dotyku a<br>niet pohladenia<br><br>dni zliali sa do rokov<br>jak ruky do okov<br>Ma zovrela samota</p>
+<p>ma motá do kruhov<br>som korisť - ona sokol<br>do kruhov strachu a tušení<br>že už viac neostalo mi <br>len ísť sám<br>že nikdy neprídeš<br>a nikdy nebola si<br>to len ja si ťa vymýšľam</p>
+<p><br>asi</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>túžim</title>
         <author>
@@ -18,11 +80,7 @@
         <id>https://jaansvrcek.github.io/tuzim.html</id>
 
         <updated>2019-05-24T11:22:11+02:00</updated>
-            <summary>
-                <![CDATA[
-                    &hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 <p class="p1"><span class="s1">túžim uchovať si</span></p>
@@ -50,12 +108,7 @@
         <id>https://jaansvrcek.github.io/bud.html</id>
 
         <updated>2019-05-24T11:25:25+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jaansvrcek.github.io/media/posts/2/R1-21A.JPG" alt="" />
-                    &hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://jaansvrcek.github.io/media/posts/2/R1-21A.JPG" alt="" />
@@ -72,12 +125,7 @@
         <id>https://jaansvrcek.github.io/v-oktobri.html</id>
 
         <updated>2019-05-24T11:19:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://jaansvrcek.github.io/media/posts/1/R1-7A.JPG" alt="" />
-                    &hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://jaansvrcek.github.io/media/posts/1/R1-7A.JPG" alt="" />
