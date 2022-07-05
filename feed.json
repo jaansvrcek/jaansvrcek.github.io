@@ -6,56 +6,60 @@
     "feed_url": "https://jaansvrcek.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "ben"
+        "name": "bn"
     },
     "items": [
         {
             "id": "https://jaansvrcek.github.io/nepokoj.html",
             "url": "https://jaansvrcek.github.io/nepokoj.html",
             "title": "nepokoj",
+            "summary": "Nepokoj visí na stene Žulové mračná tlačia krídla ku zemi ako je&hellip;",
             "content_html": "<p>Nepokoj visí na stene</p>\n<p> </p>\n<p>Žulové mračná<br>tlačia krídla ku zemi<br>                   ako je mi?</p>\n<p> </p>\n<p>Vietor kvíli<br>V pustom poli<br>Stojí strom sám prikrčený<br>Čaká čo nastane<br><br>Záblesk svetla<br>Ženie tiene<br>Rozbehnuté<br>Po krajine</p>\n<p>Dusné ticho<br>Vzduch sa chveje</p>\n<p><br>Ako je mi?<br>Ako?<br>Už dvadsať rokov<br>Zavčas rána<br>Tuším búrku</p>",
             "image": "https://jaansvrcek.github.io/media/posts/6/IMG_2718-copy.jpg",
             "author": {
-                "name": "ben"
+                "name": "bn"
             },
             "tags": [
             ],
             "date_published": "2022-01-03T22:47:57+01:00",
-            "date_modified": "2022-06-23T20:03:55+02:00"
+            "date_modified": "2022-07-05T12:06:08+02:00"
         },
         {
             "id": "https://jaansvrcek.github.io/na-chvilu.html",
             "url": "https://jaansvrcek.github.io/na-chvilu.html",
             "title": "na chvíľu",
+            "summary": "Na chvíľu iba na okamih podržať pohľad v plameňoch a počúvať praskanie niečo&hellip;",
             "content_html": "<p>Na chvíľu<br>iba na okamih<br>podržať pohľad v plameňoch<br>a počúvať praskanie</p>\n<p> </p>\n<p>niečo na tom je - <br>pozerať do ohňa<br>a počítať vlny v oceáne<br><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">- čo pohládza dušu</span></p>\n<p> </p>\n<p>mať to s kým zdieľať<br>to nemé precitnutie<br>a na moment zabudnúť <br>o trápeniach<br>čo kúšu</p>\n<p><br>ale už musím ísť<br>zas obliecť si očakávania<br>a zabudnúť <br>kým chcel som byť<br>a kým, na chvíľu, boli sme</p>",
             "author": {
-                "name": "ben"
+                "name": "bn"
             },
             "tags": [
             ],
             "date_published": "2022-01-03T22:46:39+01:00",
-            "date_modified": "2022-06-23T20:03:19+02:00"
+            "date_modified": "2022-07-05T13:29:07+02:00"
         },
         {
             "id": "https://jaansvrcek.github.io/asi.html",
             "url": "https://jaansvrcek.github.io/asi.html",
             "title": "asi",
+            "summary": "jedná z tých temných nocí kedy kvári ma zlý pocit na tvári&hellip;",
             "content_html": "<p>jedná z tých temných nocí<br>kedy kvári ma zlý pocit<br>na tvári mám výraz zúfania<br>duša zavýja ako do tmy vlci<br><br>iba štyri steny a ja<br>kde niet dotyku a<br>niet pohladenia<br><br>dni zliali sa do rokov<br>jak ruky do okov<br>Ma zovrela samota</p>\n<p>ma motá do kruhov<br>som korisť - ona sokol<br>do kruhov strachu a tušení<br>že už viac neostalo mi <br>len ísť sám<br>že nikdy neprídeš<br>a nikdy nebola si<br>to len ja si ťa vymýšľam</p>\n<p><br>asi</p>",
             "author": {
-                "name": "ben"
+                "name": "bn"
             },
             "tags": [
             ],
             "date_published": "2022-01-03T22:33:32+01:00",
-            "date_modified": "2022-06-23T20:03:36+02:00"
+            "date_modified": "2022-07-05T13:30:51+02:00"
         },
         {
             "id": "https://jaansvrcek.github.io/tuzim.html",
             "url": "https://jaansvrcek.github.io/tuzim.html",
             "title": "túžim",
+            "summary": "túžim uchovať si kúsok teba tvojej tône prítomnosti ukryjem do vône čo&hellip;",
             "content_html": "<p class=\"p1\"><span class=\"s1\">túžim uchovať si</span></p>\n<p class=\"p1\"><span class=\"s1\">kúsok teba</span></p>\n<p class=\"p1\"><span class=\"s1\">tvojej tône</span></p>\n<p class=\"p1\"><span class=\"s1\">prítomnosti</span></p>\n<p class=\"p1\"><span class=\"s1\">ukryjem do vône<strong> </strong></span></p>\n<p class=\"p1\"><span class=\"s1\">čo zostala mi na svetri</span></p>\n<p class=\"p2\"> </p>\n<p class=\"p1\"><span class=\"s1\">ako vietor v poli klasov</span></p>\n<p class=\"p1\"><span class=\"s1\">tvoja ruka v mojich vlasoch</span></p>\n<p class=\"p1\"><span class=\"s1\">keď šeptáš polohlasom</span></p>\n<p class=\"p1\"><span class=\"s1\">som len tvoja </span></p>\n<p class=\"p1\"><span class=\"s1\">iba tvoja</span></p>\n<p class=\"p1\"><span class=\"s1\">a žiaden iný mi už nepatrí</span></p>",
             "author": {
-                "name": "ben"
+                "name": "bn"
             },
             "tags": [
             ],
@@ -66,10 +70,11 @@
             "id": "https://jaansvrcek.github.io/bud.html",
             "url": "https://jaansvrcek.github.io/bud.html",
             "title": "buď",
+            "summary": "len spočívať jeden v druhom na (cestách) potulkách životom si byť druhom&hellip;",
             "content_html": "<p class=\"p1\"><span class=\"s1\">len spočívať jeden v druhom</span><span class=\"s2\"><br> </span><span class=\"s1\">na (cestách) potulkách životom</span><span class=\"s2\"><br> </span><span class=\"s1\">si byť druhom</span><span class=\"s2\"><br> </span><span class=\"s1\">vzdialení na hĺbku úderov dvoch sŕdc</span><span class=\"s2\"><br> </span><span class=\"s1\">na dosah objatia </span><span class=\"s2\"><br> </span><span class=\"s1\">dvoch rúk</span><span class=\"s2\"><br> </span><span class=\"s1\">sa mi sľúb</span><span class=\"s2\"><br> <br> </span><span class=\"s1\">chcem spoznať ta</span><span class=\"s2\"><br> </span><span class=\"s1\">až tam</span><span class=\"s2\"><br> </span><span class=\"s1\">kde línia sa rozpíja</span><span class=\"s2\"><br> </span><span class=\"s1\">medzi tebou a mnou</span><span class=\"s2\"><br> <br> </span><span class=\"s1\">dve postavy</span><span class=\"s2\"><br> </span><span class=\"s1\">na posteli</span><span class=\"s2\"><br> </span><span class=\"s1\">spletené</span><span class=\"s2\"><br> </span><span class=\"s1\">prikryté tmou</span><span class=\"s2\"><br> <br> </span><span class=\"s1\">dve nahé duše</span><span class=\"s2\"><br> </span><span class=\"s1\">dve hlavy plné snov</span><span class=\"s2\"><br> </span><span class=\"s1\">položené na vankúše</span><span class=\"s2\"><br> </span><span class=\"s1\">splývajú</span><span class=\"s2\"><br> </span><span class=\"s1\">navzájom </span><span class=\"s2\"><br> </span><span class=\"s1\">si domovom</span></p>",
             "image": "https://jaansvrcek.github.io/media/posts/2/R1-21A.JPG",
             "author": {
-                "name": "ben"
+                "name": "bn"
             },
             "tags": [
             ],
@@ -80,10 +85,11 @@
             "id": "https://jaansvrcek.github.io/v-oktobri.html",
             "url": "https://jaansvrcek.github.io/v-oktobri.html",
             "title": "v októbri",
+            "summary": "prišla bosá len v šatách z farieb a trochu od blata z&hellip;",
             "content_html": "<p class=\"p1\"><span class=\"s1\">prišla bosá len v šatách</span><span class=\"s2\"><br> </span><span class=\"s1\">z farieb</span><span class=\"s2\"><br> </span><span class=\"s1\">a trochu od blata</span><span class=\"s2\"><br> </span><span class=\"s1\">z kaluží</span><span class=\"s2\"><br> </span><span class=\"s1\">šantila s vetrom v lístí</span></p>\n<p class=\"p1\"><span class=\"s1\">a ja som raz opäť zatúžil</span><span class=\"s2\"><br> </span><span class=\"s1\">znova si bol istý</span><span class=\"s2\"><br> </span><span class=\"s1\">že ako každý rok</span><span class=\"s2\"><br> </span><span class=\"s1\">až po uši</span><span class=\"s2\"><br> </span><span class=\"s1\">som sa zaľúbil</span></p>\n<p class=\"p2\"> </p>\n<p class=\"p1\"><span class=\"s1\">jej parfum sa niesol lesom</span><span class=\"s2\"><br> </span><span class=\"s1\">voňal mi</span><span class=\"s2\"><br> </span><span class=\"s1\">zemou a plodmi jabloní</span></p>\n<p class=\"p1\"><span class=\"s1\">znel trochu smutnou</span><span class=\"s2\"><br> </span><span class=\"s1\">piesňou</span></p>\n<p class=\"p1\"><span class=\"s1\">dažďa</span><span class=\"s2\"><br> </span><span class=\"s1\">a kratších dní</span></p>\n<p class=\"p1\"><span class=\"s1\">sám</span><span class=\"s2\"><br> </span><span class=\"s1\">iba s ňou</span><span class=\"s2\"><br> </span><span class=\"s1\">som sa prechádzal</span><span class=\"s2\"><br> </span><span class=\"s1\">jeseňou</span></p>",
             "image": "https://jaansvrcek.github.io/media/posts/1/R1-7A.JPG",
             "author": {
-                "name": "ben"
+                "name": "bn"
             },
             "tags": [
             ],
