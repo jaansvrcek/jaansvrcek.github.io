@@ -3,12 +3,32 @@
     <title>básnenie</title>
     <link href="https://jaansvrcek.github.io/feed.xml" rel="self" />
     <link href="https://jaansvrcek.github.io" />
-    <updated>2023-02-26T09:50:14+01:00</updated>
+    <updated>2023-03-12T12:28:46+01:00</updated>
     <author>
         <name>bn</name>
     </author>
     <id>https://jaansvrcek.github.io</id>
 
+    <entry>
+        <title>zajtrajšok</title>
+        <author>
+            <name>bn</name>
+        </author>
+        <link href="https://jaansvrcek.github.io/zajtrajsok.html"/>
+        <id>https://jaansvrcek.github.io/zajtrajsok.html</id>
+
+        <updated>2023-03-12T12:28:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ako málo je tých čo pozrú ti priamo do očí ich pohľad&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ako málo je tých<br>čo pozrú ti<br>priamo do očí<br><br>ich pohľad uskočí<br>priskoro <br>skĺzne ku zemi<br>kútiky úst<br>tisnú sa nízko<br>smutno je mi<br><br>strácajú dych <br>ohnuté plecia<br>ťažobou dní<br>starosti prerástli<br>im srdcia<br>ich sny<br><br>prúd zvädlých hláv<br>valí sa životom<br>po tom čo túžili<br>odložili na potom<br><br>na zajtra odročili nádeje<br>- bez záruk -<br>zajtrajšok nepríde </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>uniká</title>
         <author>
