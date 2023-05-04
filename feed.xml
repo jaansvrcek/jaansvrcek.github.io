@@ -3,12 +3,34 @@
     <title>básnenie</title>
     <link href="https://jaansvrcek.github.io/feed.xml" rel="self" />
     <link href="https://jaansvrcek.github.io" />
-    <updated>2023-03-12T12:28:46+01:00</updated>
+    <updated>2023-05-04T22:26:47+02:00</updated>
     <author>
         <name>bn</name>
     </author>
     <id>https://jaansvrcek.github.io</id>
 
+    <entry>
+        <title>nemo</title>
+        <author>
+            <name>bn</name>
+        </author>
+        <link href="https://jaansvrcek.github.io/nemo.html"/>
+        <id>https://jaansvrcek.github.io/nemo.html</id>
+
+        <updated>2023-05-04T22:26:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Čosi sa vo mne krčí Hoci chcem kričať - mlčím
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Čosi sa vo mne krčí<br>Hoci chcem kričať - mlčím</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>zajtrajšok</title>
         <author>
