@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>básnenie</title>
     <link href="https://jaansvrcek.github.io/feed.xml" rel="self" />
     <link href="https://jaansvrcek.github.io" />
-    <updated>2023-05-04T22:26:47+02:00</updated>
+    <updated>2024-01-25T00:17:32+01:00</updated>
     <author>
         <name>bn</name>
     </author>
     <id>https://jaansvrcek.github.io</id>
 
     <entry>
+        <title>Vorvaň</title>
+        <author>
+            <name>bn</name>
+        </author>
+        <link href="https://jaansvrcek.github.io/vorvan/"/>
+        <id>https://jaansvrcek.github.io/vorvan/</id>
+
+        <updated>2024-01-25T00:17:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ako vorvaň Vo vani Snívam Na pol hemisféry O živote Ktorý není
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ako vorvaň
+Vo vani</p>
+<p>Snívam</p>
+<p>Na pol hemisféry
+O živote
+Ktorý není</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>nemo</title>
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/nemo.html"/>
-        <id>https://jaansvrcek.github.io/nemo.html</id>
+        <link href="https://jaansvrcek.github.io/nemo/"/>
+        <id>https://jaansvrcek.github.io/nemo/</id>
 
         <updated>2023-05-04T22:26:47+02:00</updated>
             <summary>
@@ -36,8 +62,8 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/zajtrajsok.html"/>
-        <id>https://jaansvrcek.github.io/zajtrajsok.html</id>
+        <link href="https://jaansvrcek.github.io/zajtrajsok/"/>
+        <id>https://jaansvrcek.github.io/zajtrajsok/</id>
 
         <updated>2023-03-12T12:28:46+01:00</updated>
             <summary>
@@ -56,8 +82,8 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/unika.html"/>
-        <id>https://jaansvrcek.github.io/unika.html</id>
+        <link href="https://jaansvrcek.github.io/unika/"/>
+        <id>https://jaansvrcek.github.io/unika/</id>
 
         <updated>2023-02-26T09:50:14+01:00</updated>
             <summary>
@@ -76,8 +102,9 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/nepokoj.html"/>
-        <id>https://jaansvrcek.github.io/nepokoj.html</id>
+        <link href="https://jaansvrcek.github.io/nepokoj/"/>
+        <id>https://jaansvrcek.github.io/nepokoj/</id>
+        <media:content url="https://jaansvrcek.github.io/media/posts/6/IMG_2718-copy.jpg" medium="image" />
 
         <updated>2022-07-08T21:01:56+02:00</updated>
             <summary>
@@ -88,7 +115,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jaansvrcek.github.io/media/posts/6/IMG_2718-copy.jpg" alt="" />
+                    <p><img src="https://jaansvrcek.github.io/media/posts/6/IMG_2718-copy.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Nepokoj visí na stene<br>Žulové mračná<br>Tlačia krídla ku zemi</p>
 <p>                Ako je mi?</p>
 <p>Vietor kvíli<br>V pustom poli<br>Stojí strom sám prikrčený<br>Čaká čo nastane<br><br>Záblesk svetla<br>Ženie tiene<br>Rozbehnuté<br>Po krajine<br>Dusným tichom<br>Vzduch sa chveje</p>
@@ -102,8 +129,8 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/na-chvilu.html"/>
-        <id>https://jaansvrcek.github.io/na-chvilu.html</id>
+        <link href="https://jaansvrcek.github.io/na-chvilu/"/>
+        <id>https://jaansvrcek.github.io/na-chvilu/</id>
 
         <updated>2022-07-05T13:29:07+02:00</updated>
             <summary>
@@ -127,8 +154,8 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/asi.html"/>
-        <id>https://jaansvrcek.github.io/asi.html</id>
+        <link href="https://jaansvrcek.github.io/asi/"/>
+        <id>https://jaansvrcek.github.io/asi/</id>
 
         <updated>2022-07-05T13:30:51+02:00</updated>
             <summary>
@@ -149,8 +176,8 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/tuzim.html"/>
-        <id>https://jaansvrcek.github.io/tuzim.html</id>
+        <link href="https://jaansvrcek.github.io/tuzim/"/>
+        <id>https://jaansvrcek.github.io/tuzim/</id>
 
         <updated>2019-05-24T11:22:11+02:00</updated>
             <summary>
@@ -181,8 +208,9 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/bud.html"/>
-        <id>https://jaansvrcek.github.io/bud.html</id>
+        <link href="https://jaansvrcek.github.io/bud/"/>
+        <id>https://jaansvrcek.github.io/bud/</id>
+        <media:content url="https://jaansvrcek.github.io/media/posts/2/R1-21A.JPG" medium="image" />
 
         <updated>2019-05-24T11:25:25+02:00</updated>
             <summary>
@@ -193,7 +221,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jaansvrcek.github.io/media/posts/2/R1-21A.JPG" alt="" />
+                    <p><img src="https://jaansvrcek.github.io/media/posts/2/R1-21A.JPG" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">len spočívať jeden v druhom</span><span class="s2"><br> </span><span class="s1">na (cestách) potulkách životom</span><span class="s2"><br> </span><span class="s1">si byť druhom</span><span class="s2"><br> </span><span class="s1">vzdialení na hĺbku úderov dvoch sŕdc</span><span class="s2"><br> </span><span class="s1">na dosah objatia </span><span class="s2"><br> </span><span class="s1">dvoch rúk</span><span class="s2"><br> </span><span class="s1">sa mi sľúb</span><span class="s2"><br> <br> </span><span class="s1">chcem spoznať ta</span><span class="s2"><br> </span><span class="s1">až tam</span><span class="s2"><br> </span><span class="s1">kde línia sa rozpíja</span><span class="s2"><br> </span><span class="s1">medzi tebou a mnou</span><span class="s2"><br> <br> </span><span class="s1">dve postavy</span><span class="s2"><br> </span><span class="s1">na posteli</span><span class="s2"><br> </span><span class="s1">spletené</span><span class="s2"><br> </span><span class="s1">prikryté tmou</span><span class="s2"><br> <br> </span><span class="s1">dve nahé duše</span><span class="s2"><br> </span><span class="s1">dve hlavy plné snov</span><span class="s2"><br> </span><span class="s1">položené na vankúše</span><span class="s2"><br> </span><span class="s1">splývajú</span><span class="s2"><br> </span><span class="s1">navzájom </span><span class="s2"><br> </span><span class="s1">si domovom</span></p>
             ]]>
         </content>
@@ -203,8 +231,9 @@
         <author>
             <name>bn</name>
         </author>
-        <link href="https://jaansvrcek.github.io/v-oktobri.html"/>
-        <id>https://jaansvrcek.github.io/v-oktobri.html</id>
+        <link href="https://jaansvrcek.github.io/v-oktobri/"/>
+        <id>https://jaansvrcek.github.io/v-oktobri/</id>
+        <media:content url="https://jaansvrcek.github.io/media/posts/1/R1-7A.JPG" medium="image" />
 
         <updated>2019-05-24T11:19:37+02:00</updated>
             <summary>
@@ -215,7 +244,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jaansvrcek.github.io/media/posts/1/R1-7A.JPG" alt="" />
+                    <p><img src="https://jaansvrcek.github.io/media/posts/1/R1-7A.JPG" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">prišla bosá len v šatách</span><span class="s2"><br> </span><span class="s1">z farieb</span><span class="s2"><br> </span><span class="s1">a trochu od blata</span><span class="s2"><br> </span><span class="s1">z kaluží</span><span class="s2"><br> </span><span class="s1">šantila s vetrom v lístí</span></p>
 <p class="p1"><span class="s1">a ja som raz opäť zatúžil</span><span class="s2"><br> </span><span class="s1">znova si bol istý</span><span class="s2"><br> </span><span class="s1">že ako každý rok</span><span class="s2"><br> </span><span class="s1">až po uši</span><span class="s2"><br> </span><span class="s1">som sa zaľúbil</span></p>
 <p class="p2"> </p>
