@@ -3,21 +3,21 @@
     <title>básnenie</title>
     <link href="https://basnenie.sk/feed.xml" rel="self" />
     <link href="https://basnenie.sk" />
-    <updated>2024-04-16T11:03:25+02:00</updated>
+    <updated>2024-04-16T11:17:37+02:00</updated>
     <author>
         <name>bn</name>
     </author>
     <id>https://basnenie.sk</id>
 
     <entry>
-        <title>pergamen</title>
+        <title>Pergamen</title>
         <author>
             <name>bn</name>
         </author>
-        <link href="https://basnenie.sk/pergamen/"/>
-        <id>https://basnenie.sk/pergamen/</id>
+        <link href="https://basnenie.sk/pergamen-4/"/>
+        <id>https://basnenie.sk/pergamen-4/</id>
 
-        <updated>2024-04-16T11:00:45+02:00</updated>
+        <updated>2024-04-16T11:17:37+02:00</updated>
             <summary>
                 <![CDATA[
                     poslednou dobou pozerám si na kĺby prstov a sebe na ruky ako&hellip;
@@ -25,15 +25,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>poslednou dobou
-pozerám si na kĺby prstov
-a sebe na ruky
-ako sa roky
-mi zbiehajú do vystúpených žíl
-vpísané do vrások na koži
-znavenej slnkom, prácou a starosťmi  [starost(a)mi]</p><p>svedčí mi to
-že už nie som najmladší</p><p>svedčí o tom
-ako som žil</p>
+                <p>poslednou dobou<br>pozerám si na kĺby prstov<br>a sebe na ruky</p>
+<p>ako sa roky<br>mi zbiehajú do vystúpených žíl<br>vpísané do vrások na koži<br>znavenej slnkom, prácou a starosťmi  [starost(a)mi]</p>
+<p>svedčí mi to<br>že už nie som najmladší</p>
+<p>svedčí o tom<br>ako som žil</p>
             ]]>
         </content>
     </entry>
