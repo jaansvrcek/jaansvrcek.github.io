@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://basnenie.sk/pergamen/",
+            "url": "https://basnenie.sk/pergamen/",
+            "title": "pergamen",
+            "summary": "poslednou dobou pozerám si na kĺby prstov a sebe na ruky ako&hellip;",
+            "content_html": "<p>poslednou dobou\npozerám si na kĺby prstov\na sebe na ruky</p><p>ako sa roky\nmi zbiehajú\ndo vystúpených žíl\nvpísané do vrások na koži\nznavenej slnkom, prácou a starosťmi  [starost(a)mi]</p><p>svedčí mi to\nže už nie som najmladší</p><p>svedčí o tom\nako som žil</p>",
+            "author": {
+                "name": "bn"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-16T11:00:45+02:00",
+            "date_modified": "2024-04-16T11:00:45+02:00"
+        },
+        {
             "id": "https://basnenie.sk/vorvan/",
             "url": "https://basnenie.sk/vorvan/",
             "title": "Vorvaň",
@@ -136,21 +150,6 @@
             ],
             "date_published": "2019-05-24T11:04:15+02:00",
             "date_modified": "2019-05-24T11:25:25+02:00"
-        },
-        {
-            "id": "https://basnenie.sk/v-oktobri/",
-            "url": "https://basnenie.sk/v-oktobri/",
-            "title": "v októbri",
-            "summary": "prišla bosá len v šatách z farieb a trochu od blata z&hellip;",
-            "content_html": "<p class=\"p1\"><span class=\"s1\">prišla bosá len v šatách</span><span class=\"s2\"><br> </span><span class=\"s1\">z farieb</span><span class=\"s2\"><br> </span><span class=\"s1\">a trochu od blata</span><span class=\"s2\"><br> </span><span class=\"s1\">z kaluží</span><span class=\"s2\"><br> </span><span class=\"s1\">šantila s vetrom v lístí</span></p>\n<p class=\"p1\"><span class=\"s1\">a ja som raz opäť zatúžil</span><span class=\"s2\"><br> </span><span class=\"s1\">znova si bol istý</span><span class=\"s2\"><br> </span><span class=\"s1\">že ako každý rok</span><span class=\"s2\"><br> </span><span class=\"s1\">až po uši</span><span class=\"s2\"><br> </span><span class=\"s1\">som sa zaľúbil</span></p>\n<p class=\"p2\"> </p>\n<p class=\"p1\"><span class=\"s1\">jej parfum sa niesol lesom</span><span class=\"s2\"><br> </span><span class=\"s1\">voňal mi</span><span class=\"s2\"><br> </span><span class=\"s1\">zemou a plodmi jabloní</span></p>\n<p class=\"p1\"><span class=\"s1\">znel trochu smutnou</span><span class=\"s2\"><br> </span><span class=\"s1\">piesňou</span></p>\n<p class=\"p1\"><span class=\"s1\">dažďa</span><span class=\"s2\"><br> </span><span class=\"s1\">a kratších dní</span></p>\n<p class=\"p1\"><span class=\"s1\">sám</span><span class=\"s2\"><br> </span><span class=\"s1\">iba s ňou</span><span class=\"s2\"><br> </span><span class=\"s1\">som sa prechádzal</span><span class=\"s2\"><br> </span><span class=\"s1\">jeseňou</span></p>",
-            "image": "https://basnenie.sk/media/posts/1/R1-7A.JPG",
-            "author": {
-                "name": "bn"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-05-24T11:03:52+02:00",
-            "date_modified": "2019-05-24T11:19:37+02:00"
         }
     ]
 }
